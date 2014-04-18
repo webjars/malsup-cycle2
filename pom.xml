@@ -43,9 +43,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/malsup/cycle2</url>
-        <connection>scm:git:https://github.com/malsup/cycle2.git</connection>
-        <developerConnection>scm:git:https://github.com/malsup/cycle2.git</developerConnection>
+        <url>http://github.com/webjars/malsup-cycle2</url>
+        <connection>scm:git:https://github.com/webjars/malsup-cycle2.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/malsup-cycle2.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
